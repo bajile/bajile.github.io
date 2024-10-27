@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bajile.github.io/bQZ/sitemap.bQZ
