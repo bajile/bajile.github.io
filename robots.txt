@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bajile.csgad.com/hBg/sitemap.xml.gz
